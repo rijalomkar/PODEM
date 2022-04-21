@@ -1,0 +1,38 @@
+1111x
+0111x
+x1100
+x0100
+00111
+00011
+x0111
+x0101
+x0101
+x0100
+1111x
+100xx
+x0111
+x0011
+0111x
+1111x
+x00x1
+x0111
+x10xx
+x111x
+x00x1
+xx111
+00xxx
+x10xx
+xx11x
+x00x1
+00xxx
+x10xx
+x011x
+x10x0
+1x1xx
+00xxx
+x10xx
+x011x
+TOTAL PATTERNS=34
+Total No. of OUT OF TIME=0
+Total No. of UNTESTABLE FAULT=0
+FAULT COVERAGE=100.00%
